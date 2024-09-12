@@ -1,0 +1,20 @@
+{
+  "name": "templates-nestjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/cache-manager": "^2.2.2",
+    "@nestjs/common": "^10.4.1",
+    "@nestjs/config": "^2.2.0",
+    "@nestjs/core": "^9.0.0",
+    "cache-manager": "^5.7.6",
+    "debug": "^4.3.7"
+  }
+}
